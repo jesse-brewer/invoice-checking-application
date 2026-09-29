@@ -13,4 +13,12 @@ One standardised engine, supplier specific plugins, three external data sources
 **Old vs new process comparison:**
 
 With ~35 checking runs completed per week, the weekly time save is estimated at 25-35 hours per week in checking alone.
+
 <img src="run-lifecycle-comparison.png" alt="Run life cycle comparison" width="600">
+
+
+**Application Ecosystem**
+
+With parcel-level cost data captured by the invoice checking application, further apps can be built on top of it, starting with a reporting app that joins cost and revenue for P&L analysis, answers plain-language questions using AI assisted SQL and surfaces billing issues more efficiently.
+
+<img src="application-ecosystem.png" alt="Application Ecosystem" width="600">
