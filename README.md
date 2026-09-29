@@ -12,7 +12,7 @@ One standardised engine, supplier specific plugins, three external data sources
 
 **Old vs new process comparison:**
 
-With ~35 checking runs completed per week, the weekly time save is estimated at 25-35 hours per week in checking alone.
+Time saved per invoice checking is up to ~1hr of manual processing each run. A single user may execute ~5-10 runs per week.
 
 <img src="run-lifecycle-comparison.png" alt="Run life cycle comparison" width="600">
 
