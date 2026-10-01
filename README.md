@@ -19,6 +19,6 @@ Time saved per invoice checking is up to ~1hr of manual processing each run. A s
 
 **Application Ecosystem**
 
-With parcel-level cost data captured by the invoice checking application, further apps can be built on top of it, starting with a reporting app that joins cost and revenue for P&L analysis, answers plain-language questions using AI assisted SQL and surfaces billing issues more efficiently.
+By ingesting and storing all invoice data and supplier plugin logic appropriately, we can build more tools on top of the invoice checking app. Most notably; a reporting and plain language query tool for searching our data and an audit engine, tracking the progress of DB uploads and check completions, also used to scrutinise checking logic and improve plugins.
 
 <img src="app-ecosystem.png" alt="Application Ecosystem" width="600">
