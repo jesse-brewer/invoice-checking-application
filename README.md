@@ -21,4 +21,4 @@ Time saved per invoice checking is up to ~1hr of manual processing each run. A s
 
 With parcel-level cost data captured by the invoice checking application, further apps can be built on top of it, starting with a reporting app that joins cost and revenue for P&L analysis, answers plain-language questions using AI assisted SQL and surfaces billing issues more efficiently.
 
-<img src="application-ecosystem.png" alt="Application Ecosystem" width="600">
+<img src="full-application-ecosystem.png" alt="Application Ecosystem" width="600">
